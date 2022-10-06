@@ -1,2 +1,2 @@
-# 04_Rhythm
- HTML/SCSS/JS
+# Rhythm
+Some simple website
